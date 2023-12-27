@@ -1,0 +1,13 @@
+.body {
+    color:fuchsia;
+}
+.body #list {
+    color: blue;
+}
+
+.li-1 {
+    color:crimson;
+}
+.li-2 {
+    color:gold;
+}
